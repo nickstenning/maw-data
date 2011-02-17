@@ -1,0 +1,8 @@
+- 20110131-78698f8
+- 20110131-78698f8-2
+- 20110210-82864d0
+  + First controlled brain -- really fast!
+- 20110210-82864d0-2
+  + More conservative, controlled.
+- 20110217-8160e7f
+  + Directly controlling for speed.

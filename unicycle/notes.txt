@@ -1,0 +1,3 @@
+# 20110408-60e7b0d
+
+Very good general controller, and some *very* limited attention paid to target_yaw_velocity.

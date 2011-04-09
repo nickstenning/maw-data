@@ -1,3 +1,10 @@
+# 20110409-289b964
+
+Tweaks to the fitness function in an attempt to remove the long-term stability problem of 20110408-60e7b0d.
+
 # 20110408-60e7b0d
 
 Very good general controller, and some *very* limited attention paid to target_yaw_velocity.
+
+Its major problem is its long-term stability. The wheel_velocity gradually creeps up and up, until the corrections it attempts to make in yaw overwhelm it and topple the unicycle.
+

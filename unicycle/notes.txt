@@ -1,3 +1,7 @@
+# 20110505-feb1235
+
+With a much improved friction model, this controller (which does not succeed over very long times) more accurately represents the expected/human-like behaviour, making large excursions in pitch, and smaller ones in yaw.
+
 # 20110409-289b964
 
 Tweaks to the fitness function in an attempt to remove the long-term stability problem of 20110408-60e7b0d.
